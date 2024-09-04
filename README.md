@@ -2,7 +2,7 @@
 
 Tugas Pemrograman Web
 
-## Requirements
+## Requirement
 
 - Xampp -> Web Server
 
@@ -11,5 +11,8 @@ Tugas Pemrograman Web
 Open your browser and insert link below :
 
 ```
-http://localhost/formpesan.php
+http://localhost/contact-form/formpesan.php
 ```
+
+## Author
+- Saya sendiri
